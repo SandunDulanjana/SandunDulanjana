@@ -66,4 +66,4 @@
 ---
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/SandunDulanjana"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sandundulanjan" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/SandunDulanjana"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SandunDulanjana" /></a></p>
