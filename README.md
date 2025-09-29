@@ -12,9 +12,9 @@
   
 - 🔭 I’m currently working on **ITP**
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **python**
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **sandundulanjan76@gmail.com**
 
