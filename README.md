@@ -28,18 +28,13 @@
 
 <p align="center">
   <a href="https://github.com/SandunDulanjana">
-    <img src="https://github-readme-stats.vercel.app/api?username=SandunDulanjana&theme=radical&show_icons=true&count_private=true&hide_title=true&include_all_commits=true" height="165" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=SandunDulanjana&theme=radical&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&cache_seconds=86400" height="165" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/SandunDulanjana">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandunDulanjana&theme=radical&hide_border=false" height="165" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=SandunDulanjana&theme=radical" height="165" alt="GitHub Streak"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/SandunDulanjana">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandunDulanjana&theme=radical&layout=compact&langs_count=8" height="165"/>
-  </a>
-</p>
 
 ---
 
